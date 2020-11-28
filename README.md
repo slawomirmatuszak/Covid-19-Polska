@@ -2,7 +2,7 @@
 Zebrane i oczyszczone dane [Ministerstwa Zdrowia](https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2) Dane są formacie `csv` i `Rda` na poziomie:
 
 * **powiatów** - kodowanie pliku .csv zostało zmienione na UTF-8.
-* **województw** - są to zsumowane dane z powiatów, a nie infomracja z województw, które wykłada oddzielnie MZ.
+* **województw** - są to zsumowane dane z powiatów, a nie informacja z województw, które wykłada oddzielnie MZ.
 * **Polski** - dla porównania różnicy między zsumowanymi danymi z powiatów/województw oraz całego kraju.
 
 ##### Nazwy
@@ -19,5 +19,5 @@ MZ w publikowanych raportach używa różnych nazw kolumn. W wersji oczyszczonej
 * **zakazenia.10.tys** - liczba dziennych zakażeń na 10 tys. mieszkańców. Opiera się na danych ludności GUS, a nie MZ, więc mogą występować niewielkie różnice w stosunku do raportów publikowanych przez ministerstwo.
 * **zgony** - dzienna całkowita liczba zgonów.
 * **zgony.Covid** - dzienna liczba zgonów na Covid pacjentów bez chorób współistniejących.
-* **zgony.inne** - dzienna liczba zgonów na Covid pacjetów z chorobami współistniejącymi.
+* **zgony.inne** - dzienna liczba zgonów na Covid pacjentów z chorobami współistniejącymi.
 * **zgony.10.tys** - liczba dziennych zgonów na 10 tys. mieszkańców danej jednostki terytorialnej.

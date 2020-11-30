@@ -10,11 +10,11 @@ Zebrane i oczyszczone dane [Ministerstwa Zdrowia](https://www.gov.pl/web/koronaw
 MZ w publikowanych raportach używa różnych nazw kolumn. W wersji oczyszczonej nazwy zostały ustandaryzowane w następujący sposób:
 
 * **data** - data publikacji raportu.
-* **województwo** - nazwa województwa
+* **wojewodztwo** - nazwa województwa
 * **teryt** - kod TERYT powiatu.
 * **KTS.powiat/KTS.wojewodztwo** - kod [Systemu Kodowania Jednostek Terytorialnych i Statystycznych](https://stat.gov.pl/statystyka-regionalna/jednostki-terytorialne/system-kts/) na poziomie 5 dla powiatów oraz poziomie 2 dla województw. 
 * **powiat** - nazwa powiatu.
-* **ludność** - liczba ludności danej jednostki terytorialnej w 2019 r. pobrana z Banku Danych Lokalnych GUS.
+* **ludnosc** - liczba ludności danej jednostki terytorialnej w 2019 r. pobrana z Banku Danych Lokalnych GUS.
 * **zakazenia** - dzienna liczba nowych przypadków koronawirusa w danej jednostce terytorialnej
 * **zakazenia.10.tys** - liczba dziennych zakażeń na 10 tys. mieszkańców. Opiera się na danych ludności GUS, a nie MZ, więc mogą występować niewielkie różnice w stosunku do raportów publikowanych przez ministerstwo.
 * **zgony** - dzienna całkowita liczba zgonów.

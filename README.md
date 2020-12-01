@@ -21,3 +21,5 @@ MZ w publikowanych raportach używa różnych nazw kolumn. W wersji oczyszczonej
 * **zgony.Covid** - dzienna liczba zgonów na Covid pacjentów bez chorób współistniejących.
 * **zgony.inne** - dzienna liczba zgonów na Covid pacjentów z chorobami współistniejącymi.
 * **zgony.10.tys** - liczba dziennych zgonów na 10 tys. mieszkańców danej jednostki terytorialnej.
+* **srednia** - średnia ruchoma z 7 dni nowych zakażeń.
+* **srednia.100.tys** - średnia ruchoma z 7 dni nowych zakażeń na 100 tys. mieszkańców danej jednostki terytorialnej.

@@ -1,9 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(scales)
-library(tidyverse)
-library(lubridate)
-library(scales)
+
 
 dane <- read_csv("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/locations.csv")
 
